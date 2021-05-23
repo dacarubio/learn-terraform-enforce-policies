@@ -2,7 +2,7 @@ policy "allowed-terraform-version" {
   enforcement_level = "soft-mandatory"
 }
 
-policy "less-than-100-month" {
+policy "aws-restrict-instance-type-default" {
   enforcement_level = "soft-mandatory"
 }
 
