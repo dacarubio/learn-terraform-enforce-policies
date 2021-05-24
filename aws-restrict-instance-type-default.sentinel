@@ -50,7 +50,8 @@ allowed_types = [
 	"t2.large",
 	"t2.xlarge",
 	"m4.large",
-	"m4.xlarge",
+	"m4.xlarge"
+	"c5n.xlarge",
 ]
 
 # Rule to restrict instance types
